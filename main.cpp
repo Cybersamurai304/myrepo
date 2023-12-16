@@ -21,7 +21,10 @@ void insertionsort()
 {
     
 }
-
+void time()
+{
+    
+}
 int main()
 {
     cout<<"Hello World"<<endl;
