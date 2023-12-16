@@ -17,6 +17,11 @@ void mergesort()
     //
 }
 
+void insertionsort()
+{
+    
+}
+
 int main()
 {
     cout<<"Hello World"<<endl;
